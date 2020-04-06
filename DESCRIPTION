@@ -1,0 +1,11 @@
+Package: budgetly
+Type: Package
+Title: A package designed to help users keep track of spending and expences 
+Version: 0.1.0
+Author: Torrance Williams <torrancew056@gmail.com> [auth, cre]
+Maintainer: Torrance Williams <torrancew056@gmail.com> [auth, cre]
+Description: This package will be able to calculate interst rates, establish budget charts, 
+keep track of information by date (month/year), and other financial funcitons
+License: CCO
+Encoding: UTF-8
+LazyData: true
